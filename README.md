@@ -1,10 +1,16 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jordan Boston
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) my name is Jordan Boston
 =====================================================================================================================================
 
 DevOps Engineering Manager
 --------------------------
 
-I am currently working with Pass Holdings LLC. Our applications help the photography community to share their work, manage their clients, and stay inspired. My personal role has gradually transitioned from engineering/web development to include a large degree of DevOps and Project Management. When the company I worked for was acquired, my title also transitioned to better reflect my actual role and responsibilities as DevOps Engineering Manager. We work in the AWS Cloud and utilize tools like Terraform and Docker, as well as the Serverless Framework for our Serverless Lambda API. We have an app built with Laraval and Vue.js which utilizes Docker/Terraform/ECS on AWS which I have worked on both development and infrastructure setup. There is a significant degree of variation in my role, but I have really enjoyed my work with helping implement new solutions as well as changing the stack on outdated legacy applications. I also love being able to contribute to seeing features and issues get resolved from a higher level of oversight in addition to my own personal collaboration with various projects. I aim to continue to grow in the area of DevOps and Project Management which have been coupled together in my current position.
+I am currently working with Pass Holdings LLC. Our applications help the photography community to share their work, manage their clients, and stay inspired. My personal role has gradually transitioned from engineering/web development to include a large degree of DevOps and Project Management. When the company I worked for was acquired, my title also transitioned to better reflect my actual role and responsibilities as DevOps Engineering Manager. 
+
+We work in the AWS Cloud and utilize tools like Terraform and Docker, as well as the Serverless Framework for our Serverless Lambda API. We have an app built with Laraval and Vue.js which utilizes Docker/Terraform/ECS on AWS which I have worked on both development and infrastructure setup. 
+
+There is a significant degree of variation in my role, but I have really enjoyed my work with helping implement new solutions as well as changing the stack on outdated legacy applications. I also love being able to contribute to seeing features and issues get resolved from a higher level of oversight in addition to my own personal collaboration with various projects. 
+
+I aim to continue to grow in the area of DevOps and Project Management which have been coupled together in my current position.
 
 * 🌍  I'm based in Idaho
 * 🖥️  See my portfolio at [this outdated website](http://jordanboston.com)
