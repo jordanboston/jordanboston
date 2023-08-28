@@ -9,7 +9,7 @@ DevOps all day! The items below represent different things from earlier in my ca
 * 🌍  I'm based in Idaho
 * 🖥️  See my portfolio at [this outdated website](http://jordanboston.com)
 * ✉️  You can contact me at [me@jordanboston.com](mailto:me@jordanboston.com)
-* 🚀  I'm currently working on [Photo Contest app](http://contest.shootandshare.com)
+* 🚀  I'm currently working on DevOps flow.
 * 🧠  I'm learning Serverless, Docker, Python, AWS cost opimization
 * 🤝  I'm open to collaborating on vue-place-autocomplete
 * ⚡  I wear many 🧢 hats, and manage projects, infrastructure and development
