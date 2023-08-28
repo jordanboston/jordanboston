@@ -7,7 +7,6 @@ DevOps Engineer
 DevOps all day! The items below represent different things from earlier in my career including front-end and full stack development.
 
 * 🌍  I'm based in Idaho
-* 🖥️  See my portfolio at [this outdated website](http://jordanboston.com)
 * ✉️  You can contact me at [me@jordanboston.com](mailto:me@jordanboston.com)
 * 🚀  I'm currently working on DevOps flow.
 * 🧠  I'm learning Kubernetes, more AWS, and Python.
